@@ -1,0 +1,493 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Premium Link Cloaker Lite\n"
+"POT-Creation-Date: 2016-03-23 07:46+0700\n"
+"PO-Revision-Date: 2016-03-23 07:45+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: premium-link-cloaker-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/settings/class-settings.php:68
+msgid "PLC Lite: Cloaked Links"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:68 templates/admin/links.php:13
+msgid "Cloaked Links"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:70
+msgid "PLC Lite: Add New Link"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:70 templates/admin/add-link.php:7
+#: templates/admin/link-form.php:1
+msgid "Add New Link"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:72
+msgid "PLC Lite: Categories"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:72
+#: templates/admin/categories.php:8 templates/admin/link-form.php:42
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:74
+msgid "PLC Lite: Stats"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:74 templates/admin/links.php:115
+#: templates/admin/links.php:160 templates/admin/stats.php:9
+msgid "Stats"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:76
+msgid "PLC Lite: Settings"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:76 templates/admin/settings.php:8
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:78
+msgid "PLC Lite: Go Pro!"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:78
+msgid "Go PRO"
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:95
+msgid "Copied to clipboard: "
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:268
+msgid "<strong>Error</strong>: You have to select both of link and timeframe."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:340
+msgid "New link created."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:341
+msgid "Failed to create new link."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:342
+msgid "Link updated."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:343
+msgid "Failed to update the link."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:344
+msgid "Link(s) deleted."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:345
+msgid "Failed to delete the link."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:346
+msgid "New category created."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:347
+msgid "Failed to create new category."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:348
+msgid "Category updated."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:349
+msgid "Failed to update the category."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:350
+msgid "Category(s) deleted."
+msgstr ""
+
+#: includes/admin/settings/class-settings.php:351
+msgid "Failed to delete the category."
+msgstr ""
+
+#: templates/admin/cat-form.php:1
+msgid "Edit Category"
+msgstr ""
+
+#: templates/admin/cat-form.php:1
+msgid "Add Category"
+msgstr ""
+
+#: templates/admin/cat-form.php:8 templates/admin/categories.php:85
+#: templates/admin/categories.php:115 templates/admin/link-form.php:8
+#: templates/admin/links.php:111 templates/admin/links.php:156
+msgid "Name"
+msgstr ""
+
+#: templates/admin/cat-form.php:10
+msgid "Category name."
+msgstr ""
+
+#: templates/admin/cat-form.php:14 templates/admin/categories.php:86
+#: templates/admin/categories.php:116
+msgid "Description"
+msgstr ""
+
+#: templates/admin/cat-form.php:16
+msgid "Category description."
+msgstr ""
+
+#: templates/admin/categories.php:9 templates/admin/links.php:14
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/categories.php:40 templates/admin/links.php:42
+msgid "Bulk Action"
+msgstr ""
+
+#: templates/admin/categories.php:41 templates/admin/categories.php:98
+#: templates/admin/links.php:43 templates/admin/links.php:128
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/categories.php:45 templates/admin/links.php:47
+msgid "Submit"
+msgstr ""
+
+#: templates/admin/categories.php:97 templates/admin/links.php:127
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/categories.php:107
+msgid "No category available."
+msgstr ""
+
+#: templates/admin/edit-link.php:7 templates/admin/link-form.php:1
+msgid "Edit Link"
+msgstr ""
+
+#: templates/admin/go-pro.php:7
+msgid "Lite vs Pro Version"
+msgstr ""
+
+#: templates/admin/go-pro.php:16
+msgid "Features"
+msgstr ""
+
+#: templates/admin/go-pro.php:17
+msgid "Lite"
+msgstr ""
+
+#: templates/admin/go-pro.php:18
+msgid "Pro"
+msgstr ""
+
+#: templates/admin/go-pro.php:23
+msgid "Redirect Cloaking Type"
+msgstr ""
+
+#: templates/admin/go-pro.php:28
+msgid "Custom Cloaking URL"
+msgstr ""
+
+#: templates/admin/go-pro.php:33
+msgid "Click Stats"
+msgstr ""
+
+#: templates/admin/go-pro.php:38
+msgid "Link Categories"
+msgstr ""
+
+#: templates/admin/go-pro.php:43
+msgid "Mask Cloaking Type"
+msgstr ""
+
+#: templates/admin/go-pro.php:48
+msgid "Automatic Keyword Linking"
+msgstr ""
+
+#: templates/admin/go-pro.php:53
+msgid "Click Stats Graphic"
+msgstr ""
+
+#: templates/admin/go-pro.php:58
+msgid "Link Sharing Buttons"
+msgstr ""
+
+#: templates/admin/go-pro.php:63
+msgid "Get Premium Link Cloaker at Low Price"
+msgstr ""
+
+#: templates/admin/link-form.php:11
+msgid "Name for link identification."
+msgstr ""
+
+#: templates/admin/link-form.php:15 templates/admin/links.php:113
+#: templates/admin/links.php:158
+msgid "Target URL"
+msgstr ""
+
+#: templates/admin/link-form.php:18
+msgid "URL you want to cloak."
+msgstr ""
+
+#: templates/admin/link-form.php:22
+msgid "Cloaking Type"
+msgstr ""
+
+#: templates/admin/link-form.php:25
+msgid "Redirect"
+msgstr ""
+
+#: templates/admin/link-form.php:26
+msgid "Mask (Pro Version)"
+msgstr ""
+
+#: templates/admin/link-form.php:28
+msgid "Cloaking type."
+msgstr ""
+
+#: templates/admin/link-form.php:32
+msgid "Cloaked URL"
+msgstr ""
+
+#: templates/admin/link-form.php:38
+msgid "URL you want your target URL is cloaked with."
+msgstr ""
+
+#: templates/admin/link-form.php:69
+#, php-format
+msgid ""
+"Categories the link belongs to. <a href=\"%s\">Click here</a> to create new "
+"category."
+msgstr ""
+
+#: templates/admin/link-form.php:71
+#, php-format
+msgid ""
+"No category available. <a href=\"%s\">Click here</a> to create new category."
+msgstr ""
+
+#: templates/admin/link-form.php:76
+msgid "Keywords"
+msgstr ""
+
+#: templates/admin/link-form.php:78
+msgid "(Pro Version)"
+msgstr ""
+
+#: templates/admin/link-form.php:79
+msgid ""
+"Case sensitive. Keywords you want to be automatically linked to the cloaked "
+"URL, separated by comma."
+msgstr ""
+
+#: templates/admin/links.php:17
+msgid "Back to main links page."
+msgstr ""
+
+#: templates/admin/links.php:61
+msgid "Category Filter"
+msgstr ""
+
+#: templates/admin/links.php:68 templates/admin/stats.php:48
+msgid "Filter"
+msgstr ""
+
+#: templates/admin/links.php:112 templates/admin/links.php:157
+msgid "Cloaked Link"
+msgstr ""
+
+#: templates/admin/links.php:114 templates/admin/links.php:159
+msgid "Share"
+msgstr ""
+
+#: templates/admin/links.php:134
+msgid "Copy Link"
+msgstr ""
+
+#: templates/admin/links.php:140
+msgid "Pro Version Only"
+msgstr ""
+
+#: templates/admin/links.php:142
+msgid "View"
+msgstr ""
+
+#: templates/admin/links.php:148
+msgid "No cloaked link available."
+msgstr ""
+
+#: templates/admin/settings.php:18
+msgid "Settings saved."
+msgstr ""
+
+#: templates/admin/settings.php:20
+msgid "Failed to save settings"
+msgstr ""
+
+#: templates/admin/settings.php:33
+msgid "Keyword Linking (Pro Version)"
+msgstr ""
+
+#: templates/admin/settings.php:39
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/settings.php:46
+msgid "Check this box to enable automatic keyword linking feature."
+msgstr ""
+
+#: templates/admin/settings.php:50
+msgid "Post Types"
+msgstr ""
+
+#: templates/admin/settings.php:60
+msgid "Post types that the feature will be applied to."
+msgstr ""
+
+#: templates/admin/settings.php:64
+msgid "Frequency"
+msgstr ""
+
+#: templates/admin/settings.php:67
+msgid "Low"
+msgstr ""
+
+#: templates/admin/settings.php:68
+msgid "Medium"
+msgstr ""
+
+#: templates/admin/settings.php:69
+msgid "High"
+msgstr ""
+
+#: templates/admin/settings.php:71
+msgid "How frequent keywords will be linked to cloaked links."
+msgstr ""
+
+#: templates/admin/settings.php:75
+msgid "Misc"
+msgstr ""
+
+#: templates/admin/settings.php:81
+msgid "Delete Plugin Data"
+msgstr ""
+
+#: templates/admin/settings.php:88
+msgid "Check this box to delete all plugin data when it's uninstalled."
+msgstr ""
+
+#: templates/admin/settings.php:94
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/sidebar.php:7
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: templates/admin/stats.php:2
+msgid "All"
+msgstr ""
+
+#: templates/admin/stats.php:10
+#, php-format
+msgid "Link: %1$s. Last %2$d day(s) data."
+msgstr ""
+
+#: templates/admin/stats.php:18
+msgid "Click Stats Graphic Available in Pro Version"
+msgstr ""
+
+#: templates/admin/stats.php:31
+msgid "Select Link"
+msgstr ""
+
+#: templates/admin/stats.php:32
+msgid "All Links"
+msgstr ""
+
+#: templates/admin/stats.php:40
+msgid "Time Frame"
+msgstr ""
+
+#: templates/admin/stats.php:41
+msgid "Last Day"
+msgstr ""
+
+#: templates/admin/stats.php:42
+msgid "Last Week"
+msgstr ""
+
+#: templates/admin/stats.php:43
+msgid "Last 2 Weeks"
+msgstr ""
+
+#: templates/admin/stats.php:44
+msgid "Last 30 Days"
+msgstr ""
+
+#: templates/admin/stats.php:88 templates/admin/stats.php:120
+msgid "URL"
+msgstr ""
+
+#: templates/admin/stats.php:89 templates/admin/stats.php:121
+msgid "Referrer"
+msgstr ""
+
+#: templates/admin/stats.php:90 templates/admin/stats.php:122
+msgid "IP"
+msgstr ""
+
+#: templates/admin/stats.php:91 templates/admin/stats.php:123
+msgid "Date"
+msgstr ""
+
+#: templates/admin/stats.php:103
+msgid "Direct"
+msgstr ""
+
+#: templates/admin/stats.php:113
+msgid "No stats available yet."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Premium Link Cloaker Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/premium-link-cloaker-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>### <a href=\"http://premiumlinkcloaker.com\">Get Premium Link "
+"Cloaker</a> ###</strong> The lite version of Premium link cloaker, link "
+"cloaker plugin designed and developed for affiliate marketers. 100% Newbie "
+"friendly."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Yudhistira Mauris"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.yudhistiramauris.com/"
+msgstr ""

@@ -1,0 +1,158 @@
+body {
+	background-color: transparent;
+    font-family: "Open Sans", sans-serif;
+}
+
+.panel-body {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.plcl-status {
+	display: none;
+}
+
+.table {
+	background-color: #FFF;
+	border: 1px solid #DDD;
+	margin-bottom: 0;
+}
+
+.table > thead > tr > th,
+.table > tfoot > tr > th {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+}
+
+.table .col-cb {
+	width: 40px;
+}
+
+.form-inline select.form-control,
+select.form-control {
+	padding: 6px 12px;
+	height: 34px;
+	line-height: 1.428571429;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.form-horizontal .control-label {
+	text-align: left;
+}
+
+div, p, label {
+	font-size: 14px;
+}
+
+.padding-0 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.padding-sm {
+	padding-left: 0;
+	padding-right: 2px;
+}
+
+.padding-md {
+	padding-left: 0;
+	padding-right: 4px;
+}
+
+.status-message {
+	border: 1px solid #F5F5F5;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 5px 10px;
+}
+
+.page-subtitle-header {
+	margin-top: 0;
+}
+
+.plcl-row-actions {
+	color: #ddd;
+	font-size: 13px;
+	visibility: hidden;
+	padding: 2px 0 0;
+}
+
+.plcl-row-actions .trash a {
+	color: #A00;
+}
+
+.copy-button.zeroclipboard-is-hover {
+	text-decoration: underline;
+}
+
+.plcl-chart {
+	height: 300px;
+}
+
+.plcl-chart-wrapper {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	height: 369px;
+	margin: 0 0 15px;
+	padding: 10px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #fafafa;
+}
+
+.plcl-license-status {
+	color: green;
+	font-weight: bold;
+}
+
+nav {
+	float: right;
+	clear: both;
+	line-height: 1.4em;
+}
+
+.pagination {
+	margin: 0;
+}
+
+.select2-dropdown--below {
+    top: -32px;
+}
+
+.go-pro-table tr td {
+	vertical-align: middle !important;
+}
+
+.go-pro-link {
+	margin: 20px 0;
+}
+
+.stats-pro-text {
+	margin: 150px 0;
+}
+
+/*******************************************
+ *************** Sidebar *******************
+ *******************************************/
+
+.sidebar-wrapper {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	margin: 10px 0;
+	padding: 30px;
+	text-align: center;
+}
+
+.sidebar-wrapper i {
+	color: #000;
+}
+
+.sidebar-wrapper p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+}
